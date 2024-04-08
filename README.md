@@ -1,5 +1,5 @@
-# PR2_YirongXu
-#Function Descriptions
+## PR2_YirongXu
+# Function Descriptions
 
 1. Download File (download_file)
 Downloads a file from a given URL and saves it to a specified local path. Uses the requests library to make a GET request and save the response content to the local file.
@@ -28,10 +28,7 @@ Replaces the column names of a DataFrame with new names. Takes a list of new col
 9. Save DataFrame to Excel File (save_dataframe_to_excel)
 Saves a DataFrame to an Excel file with the specified file name. Uses Pandas' to_excel function to export the DataFrame to an Excel file.
 
-
-
-Test Functions README
-
+# Test Functions README
 Test 1: Extracted Sample Names
 Verifies the correctness of the function get_sample_names.
 Checks if sample names are correctly extracted from FASTQ file names.
@@ -51,3 +48,9 @@ Checks if sequences shorter than a specified minimum length are filtered out.
 Test 5: Convert Dictionary to DataFrame
 Verifies the correctness of the function dict_to_dataframe.
 Checks if a dictionary of sequences is correctly converted into a DataFrame with sequence counts.
+
+# DAG
+PR2_Yirong.jpeg
+
+# ReadMe
+I did this work by myself.
