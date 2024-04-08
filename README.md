@@ -53,4 +53,4 @@ Checks if a dictionary of sequences is correctly converted into a DataFrame with
 PR2_Yirong.jpeg
 
 # ReadMe
-I did this work by myself.
+did this work by myself.
